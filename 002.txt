@@ -1,0 +1,74 @@
+BUG REPORT 
+#******* 
+
+DATE
+10/13/22 AT 12:57 AM 
+
+TEST CYCLE #******
+[iOS] Creator Page - The "3 Tiers" item is missing
+
+THIS IS REPORTED FROM TEST CASE #*******
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+very valuable
+ 
+BUILD
+7.10.4 (848)
+ 
+MODIFIED
+10/28/22 at 11:20 PM
+ 
+SEVERITY
+High
+ 
+ISSUE TYPE
+Functional
+ 
+SOURCE
+Structured
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 8 Plus - iOS 15.6, Kyivstar GSM
+
+DESCRIPTION
+
+COMMUNITY REPRODUCTIONS
+Show 1 Reproductions
+
+COMPONENT
+native-video
+
+ACTION PERFORMED
+Preconditions: The user has signed in as a Tier 1 Creator
+1. Open the *** app
+2. Create a Post, then tap the "Next" link (top-right)
+3. Under "Who can see this post" tap the right arrow
+4. Tap "Select Tiers" in the modal, then select the 3 Tier
+
+EXPECTED RESULT
+The creator can select which tiers can access a post
+
+ACTUAL RESULT
+The "3 Tiers" item is missing
+
+COMPONENT 
+creator-page
+
+BUILD 
+7.10.4 (848)
+
+DEVICE 
+iPhone 8 Plus
+OS 
+iOS 15.6
+BROWSER 
+N/A
