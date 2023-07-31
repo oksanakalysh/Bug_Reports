@@ -68,7 +68,12 @@ BUILD
 
 DEVICE 
 iPhone 8 Plus
+
 OS 
 iOS 15.6
+
 BROWSER 
 N/A
+
+ATTACHMENTS
+***
