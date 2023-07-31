@@ -1,8 +1,10 @@
-BUG REPORT #5819*** 
+BUG REPORT 
+#******* 
 
-DATE: 11/13/22 AT 10:08 PM 
+DATE
+11/13/22 AT 10:08 PM 
 
-TEST CYCLE #391***
+TEST CYCLE #******
 [Video][Ukraine][iPhone8Plus - iOS 16.1] - Unable to re-watch the video on the PIP mode from Twitter
  
 TESTER
