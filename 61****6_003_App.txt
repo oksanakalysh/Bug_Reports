@@ -1,14 +1,14 @@
 BUG REPORT
-#*******
+#NDA
 
 DATE
 07/26/23 AT 10:32 AM 
 
-TEST CYCLE #*******
+TEST CYCLE #NDA
 
 [iOS] Post - The editing post changes aren't visible on the screen.
 
-THIS IS REPORTED FROM TEST CASE #*******
+THIS IS REPORTED FROM TEST CASE #NDA
  
 TESTER
 Oksana Kalysh
@@ -82,10 +82,10 @@ BROWSER
 N/A
 
 ACCOUNT 
-***@***.com
+NDA@NDA.com
 
 SOURCE 
 Test Case
 
 ATTACHMENTS
-***
+NDA
