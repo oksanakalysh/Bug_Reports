@@ -1,13 +1,13 @@
 BUG REPORT 
-#******* 
+#NDA 
 
 DATE
 10/13/22 AT 12:57 AM 
 
-TEST CYCLE #******
+TEST CYCLE #NDA
 [iOS] Creator Page - The "3 Tiers" item is missing
 
-THIS IS REPORTED FROM TEST CASE #*******
+THIS IS REPORTED FROM TEST CASE #NDA
  
 TESTER
 Oksana Kalysh
@@ -49,7 +49,7 @@ native-video
 
 ACTION PERFORMED
 Preconditions: The user has signed in as a Tier 1 Creator
-1. Open the *** app
+1. Open the NDA app
 2. Create a Post, then tap the "Next" link (top-right)
 3. Under "Who can see this post" tap the right arrow
 4. Tap "Select Tiers" in the modal, then select the 3 Tier
@@ -76,4 +76,4 @@ BROWSER
 N/A
 
 ATTACHMENTS
-***
+NDA
