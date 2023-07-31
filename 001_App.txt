@@ -1,0 +1,80 @@
+BUG REPORT #5819*** 
+
+DATE: 11/13/22 AT 10:08 PM 
+
+TEST CYCLE #391***
+[Video][Ukraine][iPhone8Plus - iOS 16.1] - Unable to re-watch the video on the PIP mode from Twitter
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+exceptionally valuable
+ 
+BUILD
+V0
+ 
+MODIFIED
+11/14/22 at 7:57 PM
+ 
+SEVERITY
+Medium
+ 
+ISSUE TYPE
+Functional
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+None
+
+DESCRIPTION
+ACTION PERFORMED
+Precondition: find an article with a video, posted from Twitter to the app
+1. Open the app *** and log in
+2. Tap on the ''Home''
+3. Go to any article (in my case: "Sven Kramer on his Olympic golds, his legendary career, and “finding a new balance” in retirement")
+4. Scroll down, select a video, posted from Twitter, and tap on the video play button
+5. Tap on the fullscreen button
+6. Tap on the PIP mode
+7. Watch the video to the end
+8. Tap on the play button again
+
+EXPECTED RESULT
+The play button works correctly in the PIP mode, and a user can re-watch a video (posted from Twitter) )on the mini screen
+
+ACTUAL RESULT
+Impossible to re-watch the video (posted from Twitter) on the mini screen
+
+ADDITIONAL ENVIRONMENT INFO
+Note:
+**Country: UA (Ukraine), not the UK (The United Kindom)
+**Build number: 7.4.0 (55)
+
+DEVICE
+iPhone 8 Plus
+
+OS
+iOS 16.1
+
+REPRODUCIBILITY 
+4/4
+
+TIMESTAMP 
+12.11.2022 00:09:00
+
+COUNTRY
+UK
+
+LANGUAGE TESTED ON
+English
+
+SPEEDTEST 
+https://www.speedtest.net/my-result/i/5358044898
+
+BUILD NUMBER
+7.3.0 (52)
