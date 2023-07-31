@@ -1,0 +1,87 @@
+BUG REPORT
+#NDA 
+
+DATE
+07/26/23 AT 11:18 AM 
+
+TEST CYCLE #NDA
+
+[iOS] Posts - A cursor is missing when creating/editing a post
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved
+
+VALUE
+somewhat valuable
+ 
+BUILD
+8.7.25 (30473)
+ 
+MODIFIED
+07/29/23 at 5:33 AM
+ 
+SEVERITY
+Medium
+ 
+ISSUE TYPE
+Functional
+ 
+SOURCE
+Exploratory
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 13 Pro - iOS 16.5.1, Kyivstar GSM
+
+DESCRIPTION
+
+COMMUNITY REPRODUCTIONS
+Show 1 Reproductions
+
+COMPONENT
+iOS
+
+ACTION PERFORMED
+Preconditions: A user has signed in as a Creator
+1. Navigate to the "Post" screen (center tab in bottom nav)
+2. Tap the 'new post' button
+3. Enter text at "Post title"
+4. Enter text at "Describe what you're sharing..."
+
+EXPECTED RESULT
+The cursor is available at the beginning of creating/editing a post
+
+ACTUAL RESULT
+The cursor is missing at the beginning of creating/editing a post
+
+ROLE 
+creator
+
+COMPONENT 
+posts
+
+BUILD 
+8.7.25 (30473)
+
+DEVICE 
+iPhone 13 Pro
+
+OS 
+iOS 16.5.1
+
+BROWSER 
+N/A
+
+ACCOUNT 
+NDA@NDA.com
+
+SOURCE 
+Exploratory
+
+ATTACHMENTS
+NDA
