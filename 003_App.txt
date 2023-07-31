@@ -1,0 +1,91 @@
+BUG REPORT
+#*******
+
+DATE
+07/26/23 AT 10:32 AM 
+
+TEST CYCLE #*******
+
+[iOS] Post - The editing post changes aren't visible on the screen.
+
+THIS IS REPORTED FROM TEST CASE #*******
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+somewhat valuable
+ 
+BUILD
+8.7.25 (30473)
+ 
+MODIFIED
+07/29/23 at 5:33 AM
+ 
+SEVERITY
+High
+ 
+ISSUE TYPE
+Functional
+ 
+SOURCE
+Structured
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 13 Pro - iOS 16.5.1, Kyivstar GSM
+
+DESCRIPTION
+
+COMMUNITY REPRODUCTIONS
+Show 1 Reproduction
+
+COMPONENT
+iOS
+
+ACTION PERFORMED
+Preconditions: A user has signed in as a Creator and created a post
+
+1. Navigate to the "Post" screen and select the created post
+2. Tap the 'kebab' (3 vertical dots) top-right
+3. From the open menu, tap "Edit"
+4. Edit the post, then tap "Next"
+5. On the "Post Settings" screen, tap "Save"
+
+EXPECTED RESULT
+The changes on the post are visible on the screen
+
+ACTUAL RESULT
+The changes aren't visible on the screen
+
+ROLE 
+creator
+
+COMPONENT 
+posts
+
+BUILD 
+8.7.25 (30473)
+
+DEVICE 
+iPhone 13 Pro
+
+OS 
+iOS 16.5.1
+
+BROWSER 
+N/A
+
+ACCOUNT 
+***@***.com
+
+SOURCE 
+Test Case
+
+ATTACHMENTS
+***
