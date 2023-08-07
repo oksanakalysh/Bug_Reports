@@ -1,0 +1,79 @@
+BUG REPORT
+#NDA
+
+DATE
+09/19/22 AT 10:24 PM 
+
+TEST CYCLE #NDA
+
+[iPhone - Safari] - Profile - The menu item "Insights" is missing
+
+THIS IS REPORTED FROM TEST CASE #NDA
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+very valuable
+ 
+BUILD
+2022.09.16
+ 
+MODIFIED
+09/21/22 at 5:40 PM
+ 
+SEVERITY
+High
+ 
+ISSUE TYPE
+Functional
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 8 Plus - iOS 15.6, Kyivstar GSM, Safari
+
+DESCRIPTION
+
+COMMUNITY REPRODUCTIONS
+Show 5 Reproductions
+
+COMPONENT
+native-video
+
+ACTION PERFORMED
+Precondition: The user (teammate) has logged in
+1. Open www.NDA.com
+
+2. Select Insights from the left navigation
+
+EXPECTED RESULT
+There is an item "Insights" in the left navigation
+
+ACTUAL RESULT
+There aren't Insights in the left navigation
+
+SOURCE 
+Test Case
+
+BUILD 
+2022.09.16
+
+DEVICE 
+iPhone 8 Plus
+
+OS 
+iOS 15.6
+
+BROWSER 
+Safari
+
+URL 
+www.NDA.com
+
+ATTACHMENTS
+NDA
