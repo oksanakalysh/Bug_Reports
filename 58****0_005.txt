@@ -1,0 +1,90 @@
+BUG REPORT
+#NDA
+
+DATE
+11/11/22 AT 1:57 PM
+TEST CYCLE #NDA
+
+[About][Ukraine][iPhone 8 Plus - iOS 16.1] - An error 404 on the pages (item "About")
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+VALUE
+very valuable
+ 
+BUILD
+7.4.0 (55)
+ 
+MODIFIED
+12/03/22 at 9:03 PM
+ 
+SEVERITY
+Medium
+ 
+ISSUE TYPE
+Functional
+ 
+SOURCE
+Exploratory
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 8 Plus - iOS 16.1, Kyivstar GSM
+DESCRIPTION
+
+COMMUNITY REPRODUCTIONS
+Show 2 Reproductions
+
+COMPONENT
+About
+
+ACTION PERFORMED
+1. Open the app NDA and log in
+2. Tap on ''More''
+3. Select "About"
+4. Tap on the "Terms of Service" or "Privacy Policy"
+
+EXPECTED RESULT
+A user can open pages "Terms of Service" and "Privacy Policy"
+
+ACTUAL RESULT
+An error 404 on the pages and a user can't read information about the "Terms of service" and "Privacy Policy"
+
+ERROR MESSAGE
+404
+
+PAGE NOT FOUND
+Sorry! We can’t find the page you were looking for.
+
+DEVICE
+iPhone 8 Plus
+
+OS
+iOS 16.1
+
+REPRODUCIBILITY 
+4/4
+
+TIMESTAMP 
+11.11.2022 13:45:00; 11.11.2022 14:11:00
+
+COUNTRY
+Ukraine
+
+LANGUAGE TESTED ON
+English
+
+SPEEDTEST 
+https://www.speedtest.net/my-result/i/5357311044;
+https://www.speedtest.net/my-result/i/5357330741
+
+BUILD NUMBER
+7.4.0 (55)
+
+ATTACHMENTS
+NDA
