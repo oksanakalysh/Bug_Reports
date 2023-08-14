@@ -1,0 +1,75 @@
+ID
+#NDA
+
+DATE
+08/22/22 AT 8:01 PM 
+
+TEST CYCLE #NDA
+
+iPhone 8 Plus - Shipping and returns - Undefined characters are displayed
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+somewhat valuable
+ 
+BUILD
+NDA
+ 
+MODIFIED
+08/23/22 at 8:03 PM
+ 
+SEVERITY
+Low
+ 
+ISSUE TYPE
+Functional
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 8 Plus - iOS 15.6, Kyivstar GSM, Safari
+
+DESCRIPTION 
+
+COMMUNITY REPRODUCTIONS
+Show 3 Reproductions
+
+ACTION PERFORMED
+1. Open https://NDA
+2. Select "Toys, Games and Books"
+3. Tap on the "See all"
+4. Select "75277 - Boba Fett Collectible helmet" or any other product
+5. Go down and open "Shipping and returns"
+
+EXPECTED RESULT
+Opening "Shipping and returns" display the correct text.
+
+ACTUAL RESULT
+Opening "Shipping and returns" display undefined characters.
+
+EXACT URL 
+https://NDA
+
+DID YOU ATTACH AN MP4 VIDEO? 
+Yes, I did upload an mp4 video
+
+DID YOU ATTACH A SCREENSHOT? 
+Yes, I did upload a highlighted screenshot of the issue.
+
+DID YOU ATTACH A LOG WITH TIMESTAMPS? 
+Yes, I did upload a device log or console log in .txt format
+
+WEBSITE LOCAL VERSION 
+NDA
+
+TESTER LOCATION 
+Ukraine
+
+ATTACHMENTS
+NDA
