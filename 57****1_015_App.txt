@@ -1,0 +1,80 @@
+ID
+#NDA
+
+DATE
+10/12/22 AT 6:56 PM 
+
+TEST CYCLE #NDA
+
+[iOS] Signup - The "Feed" page doesn't load in a timely manner
+
+THIS IS REPORTED FROM TEST CASE #NDA
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+somewhat valuable
+ 
+BUILD
+NDA
+ 
+MODIFIED
+10/28/22 at 11:20 PM
+ 
+SEVERITY
+High
+ 
+ISSUE TYPE
+Performance
+ 
+SOURCE
+Structured
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 8 Plus - iOS 15.6, Kyivstar GSM
+
+DESCRIPTION
+
+COMMUNITY REPRODUCTIONS
+Show 1 Reproduction
+
+COMPONENT
+native-video
+
+ACTION PERFORMED
+Preconditions: The user has downloaded the NDA app
+1. Open the NDA app
+2. Tap the "New to NDA? Sign Up" link
+2. Enter text in all the fields
+3. Click the "Sign up" button
+
+EXPECTED RESULT
+The "Feed" page loads in a timely manner
+
+ACTUAL RESULT
+The page loads infinitely
+
+COMPONENT 
+sign-up
+
+BUILD 
+NDA
+
+DEVICE 
+iPhone 8 Plus
+
+OS 
+iOS 15.6
+
+BROWSER 
+N/A
+
+ATTACHMENTS
+NDA
