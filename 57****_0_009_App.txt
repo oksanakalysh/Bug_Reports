@@ -1,0 +1,80 @@
+ID
+#NDA
+
+DATE
+09/09/22 AT 10:58 AM 
+
+TEST CYCLE #NDA
+
+[iOS] Native Player - The app in the background does't work correctly
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+very valuable
+ 
+BUILD
+NDA
+ 
+MODIFIED
+09/15/22 at 6:26 PM
+ 
+SEVERITY
+Medium
+ 
+ISSUE TYPE
+Functional
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 8 Plus - iOS 15.6, Kyivstar GSM
+
+DESCRIPTION
+
+COMMUNITY REPRODUCTIONS
+Show 1 Reproductions
+
+COMPONENT
+native-video
+
+ACTION PERFORMED
+Precondition: The user has logged in
+1. Open the NDA app
+2. Go to the "My memberships"
+3. Select any video creator
+4. Tap on any video
+5. Tap on the increasing icon and then on mute button
+6. Send the app to the background and wait for ~25 seconds.
+
+EXPECTED RESULT
+The app should either resume playing the video and show a Pause icon or pause the video
+
+ACTUAL RESULT
+The app starts playing, but the background becomes a black screen, and the Play icon doesn't work
+
+ADDITIONAL ENVIRONMENT INFO
+Account used: NDA@gmail.com
+
+SOURCE 
+Exploratory
+
+BUILD 
+NDA
+
+DEVICE 
+iPhone 8 Plus
+
+OS 
+iOS 15.6
+
+BROWSER 
+N/A
+
+ATTACHMENTS
+NDA
