@@ -1,0 +1,84 @@
+ID
+#NDA
+
+DATE
+07/20/23 AT 3:06 PM 
+
+TEST CYCLE #NDA
+
+[iPhone 13/16.5.1] - Unable to correct the entered email
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+somewhat valuable
+ 
+BUILD
+NDA
+ 
+MODIFIED
+07/25/23 at 12:54 AM
+ 
+SEVERITY
+High
+ 
+ISSUE TYPE
+Functional
+ 
+SOURCE
+Exploratory
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 13 Pro - iOS 16.5.1, Kyivstar GSM, Safari
+
+DESCRIPTION 
+
+COMPONENT
+login
+
+ACTION PERFORMED
+1. Open https://NDA
+2. Open https://www.NDA.com
+on a new screen/window
+3. Tap on Login
+4. Enter an email and tap "Continue"
+5. Return to the previous screen
+6. Reload the page
+7. Repeat steps 3-4
+
+EXPECTED RESULT
+Able to correct the entered email
+
+ACTUAL RESULT
+Unable to correct the entered email
+
+ROLE
+NDA
+
+COMPONENT 
+login
+
+BUILD 
+NDA
+
+DEVICE 
+iPhone 13 Pro
+
+OS 
+iOS 16.5.1
+
+BROWSER 
+Safari
+
+ACCOUNT 
+N/A
+
+ATTACHMENTS
+NDA
