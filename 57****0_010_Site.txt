@@ -1,0 +1,81 @@
+ID
+#5742880 
+
+DATE
+09/22/22 AT 1:21 AM 
+
+TEST CYCLE #NDA
+
+[iPhone - Safari] Native Player - Creating video preview leads to the incorrect it displaying
+ 
+TESTER
+Oksana Kalysh
+
+STATUS
+Approved 
+
+VALUE
+very valuable
+ 
+BUILD
+NDA
+ 
+MODIFIED
+09/30/22 at 10:11 PM
+ 
+SEVERITY
+Medium
+ 
+ISSUE TYPE
+Functional
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 8 Plus - iOS 15.6, Kyivstar GSM, Safari
+
+DESCRIPTION
+ 
+COMPONENT
+native-video
+
+ACTION PERFORMED
+Precondition: The user (NDA) has logged in
+1. Open www.NDA
+2. Tap on the hamburger menu (on the left top)
+3. Tap on "Create" and "Video" option
+4. Tap on the "Select video and upload any video longer than 2 minutes
+5. Write a post title and Tap on the "Edit duration"
+6. Tap on the play button on the player
+7. Move the slider in the playback bar on the right and tap on the playing button again
+8. Tap on the "Cancel" and "Edit duration" again
+9. Move the slider in the playback bar on the right and tap on the playing button
+
+EXPECTED RESULT
+Showing a video preview we are creating.
+
+ACTUAL RESULT
+If I start editing the video preview immediately (moving the slider in the playback bar on the right), it shows all the video from the beginning (doesn't show the preview video I'm creating).
+But if I tap on the playing button and only after that edit a video preview duration (move slider in the playback bar on the right ), it works as it should.
+
+SOURCE 
+Exploratory
+
+BUILD 
+NDA
+
+DEVICE 
+iPhone 8 Plus
+
+OS 
+iOS 15.6
+
+BROWSER 
+Safari
+
+URL 
+www.NDA
+
+ATTACHMENTS
+NDA
