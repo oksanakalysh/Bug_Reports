@@ -1,0 +1,75 @@
+ID #NDA
+
+DATE
+08/02/22 AT 12:32 PM 
+
+TEST CYCLE #NDA
+
+Windows 7 - Reservation - The TOTAL is displayed incorrectly if the reservation for 3, or more days.
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+somewhat valuable
+ 
+BUILD
+1
+ 
+MODIFIED
+08/02/22 at 7:32 PM
+ 
+SEVERITY
+Critical
+ 
+ISSUE TYPE
+Functional
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+  Windows 7 - Chrome
+
+COMMUNITY REPRODUCTIONS
+Show 1 Reproduction
+
+ACTION PERFORMED
+1. Open https://www.NDA
+2. Select the type of vehicle in the item What type of vehicle?
+3. Select the location in the item Pick up & Return location
+4. Fill Pick up date & time and Return date & time (three or more days)
+5. Calculate total
+
+EXPECTED RESULT
+The TOTAL is displayed correctly.
+
+ACTUAL RESULT
+The TOTAL is displayed incorrectly if the reservation for 3, or more days.
+
+DID YOU FOLLOW TITLE FORMAT IN THE OVERVIEW? 
+Yes, I checked the overview and I wrote the bug title in the correct format.
+
+DID YOU START STEPS WITH HOMEPAGE URL AND WRITE ALL THE STEPS? 
+Yes, I started the steps with the homepage URL and wrote all steps to reproduce the issue.
+
+DID YOU WRITE EXPECTED RESULT CORRECTLY? 
+Yes, I wrote what the user would expect to happen.
+
+DID YOU WRITE ACTUAL RESULT CORRECTLY? 
+Yes, I wrote what happens when the user carries out the steps.
+
+DID YOU ATTACH A SCREENSHOT? 
+Yes, I did upload a highlighted screenshot of the issue.
+
+WEBSITE LOCAL VERSION 
+NDA
+
+TESTER LOCATION 
+Ukraine
+
+ATTACHMENTS
+NDA
