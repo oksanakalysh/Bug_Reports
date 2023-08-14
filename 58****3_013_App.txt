@@ -1,0 +1,89 @@
+ID
+#NDA
+
+DATE
+11/11/22 AT 11:53 PM 
+
+TEST CYCLE #NDA
+
+[Video][Ukraine][iPhone8Plus-iOS 16.1]-The contents of the subtitle options are hidden on the screen
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+somewhat valuable
+ 
+BUILD
+NDA
+ 
+MODIFIED
+12/03/22 at 9:03 PM
+ 
+SEVERITY
+Medium
+ 
+ISSUE TYPE
+Visual
+ 
+SOURCE
+Exploratory
+ 
+FREQUENCY
+Every Time
+ 
+ENVIRONMENT
+ Apple iPhone 8 Plus - iOS 16.1, Kyivstar GSM
+
+DESCRIPTION
+
+COMMUNITY REPRODUCTIONS
+Show 3 Reproductions
+
+COMPONENT
+Home
+
+ACTION PERFORMED
+1. Open the app NDA and log in
+2. Tap on the ''Home''
+3. Go to any article (in my case: "Sven Kramer on his Olympic golds, his legendary career, and “finding a new balance” in retirement")
+4. Scroll down, select a video, and tap on the video play button (in my case: "Sven Kramer's new life after retirement")
+5. Tap on the gear icon on the video
+6. Tap on the "Subtitle Options"
+7. Scroll the contents of the "Subtitle options" from top to down
+
+EXPECTED RESULT
+Able to review and set subtitle options and return to the previous menu item
+
+ACTUAL RESULT
+The contents of the subtitle options are hidden on the video screen and unable to return to the previous item menu
+
+DEVICE
+iPhone 8 Plus
+
+OS
+iOS 16.1
+
+REPRODUCIBILITY 
+4/4
+
+TIMESTAMP 
+11.11.2022 23:45:00
+
+COUNTRY
+Ukraine
+
+LANGUAGE TESTED ON
+English
+
+SPEEDTEST 
+https://www.speedtest.net/my-result/i/5358026636
+
+BUILD NUMBER
+NDA
+
+ATTACHMENTS
+NDA
