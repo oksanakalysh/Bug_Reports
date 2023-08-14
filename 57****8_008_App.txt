@@ -1,0 +1,63 @@
+ID
+#NDA
+
+DATE
+09/05/22 AT 5:57 PM 
+
+TEST CYCLE #NDA
+
+iPhone 8 Plus/15.6: Courses - Slide show for cyclic viewing of lessons disappears.
+
+THIS IS REPORTED FROM TEST CASE #NDA
+ 
+TESTER
+Oksana Kalysh
+ 
+STATUS
+Approved 
+
+VALUE
+very valuable
+ 
+BUILD
+NDA
+ 
+MODIFIED
+09/05/22 at 10:09 PM
+ 
+SEVERITY
+Medium
+ 
+ISSUE TYPE
+Functional
+ 
+FREQUENCY
+Every Time
+ 
+DESCRIPTION
+
+COMPONENT
+Product Details Page / Product description
+
+ACTION PERFORMED
+Precondition: The user has logged in
+1. Open the NDA app
+2. Tap on the Explore tab
+3. Tap on Courses
+4. Scroll down to the bottom of the page
+5. Scroll up
+
+EXPECTED RESULT
+A carousel of the lessons is available.
+
+ACTUAL RESULT
+The slide show for cyclic viewing of lessons disappears.
+
+TESTER LOCATION 
+Ukraine
+
+APP LOCAL VERSION 
+NDA
+
+ATTACHMENTS
+NDA
